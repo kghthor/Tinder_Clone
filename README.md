@@ -5,7 +5,7 @@
 - Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br> 
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="java" height="40" width="40" src="https://user-images.githubusercontent.com/99184393/177784219-cab3eb2f-bc21-4c09-ab9e-dd7272605ca5.png">
