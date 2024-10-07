@@ -1,4 +1,4 @@
-# TINDER Clone with REACT JS
+# TINDER Clone with REACT JS 
 ### <a href="https://tinder-clone-ce8d7.firebaseapp.com/" target="_blank">🔴 LIVE DEMO</a>
 
 #### PREREQUISITES:  
